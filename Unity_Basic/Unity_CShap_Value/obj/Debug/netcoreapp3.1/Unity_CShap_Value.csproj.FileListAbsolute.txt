@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CShap_Value\bin\Debug\netcoreapp3.1\Unity_CShap_Value.exe
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CShap_Value\bin\Debug\netcoreapp3.1\Unity_CShap_Value.deps.json
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CShap_Value\bin\Debug\netcoreapp3.1\Unity_CShap_Value.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CShap_Value\bin\Debug\netcoreapp3.1\Unity_CShap_Value.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CShap_Value\bin\Debug\netcoreapp3.1\Unity_CShap_Value.dll
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CShap_Value\bin\Debug\netcoreapp3.1\Unity_CShap_Value.pdb
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CShap_Value\obj\Debug\netcoreapp3.1\Unity_CShap_Value.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CShap_Value\obj\Debug\netcoreapp3.1\Unity_CShap_Value.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CShap_Value\obj\Debug\netcoreapp3.1\Unity_CShap_Value.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CShap_Value\obj\Debug\netcoreapp3.1\Unity_CShap_Value.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CShap_Value\obj\Debug\netcoreapp3.1\Unity_CShap_Value.dll
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CShap_Value\obj\Debug\netcoreapp3.1\Unity_CShap_Value.pdb
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CShap_Value\obj\Debug\netcoreapp3.1\Unity_CShap_Value.genruntimeconfig.cache

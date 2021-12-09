@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_Program\obj\Debug\netcoreapp3.1\Unity_Program.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_Program\obj\Debug\netcoreapp3.1\Unity_Program.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_Program\obj\Debug\netcoreapp3.1\Unity_Program.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_Program\obj\Debug\netcoreapp3.1\Unity_Program.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_Program\bin\Debug\netcoreapp3.1\Unity_Program.exe
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_Program\bin\Debug\netcoreapp3.1\Unity_Program.deps.json
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_Program\bin\Debug\netcoreapp3.1\Unity_Program.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_Program\bin\Debug\netcoreapp3.1\Unity_Program.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_Program\bin\Debug\netcoreapp3.1\Unity_Program.dll
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_Program\bin\Debug\netcoreapp3.1\Unity_Program.pdb
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_Program\obj\Debug\netcoreapp3.1\Unity_Program.dll
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_Program\obj\Debug\netcoreapp3.1\Unity_Program.pdb
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_Program\obj\Debug\netcoreapp3.1\Unity_Program.genruntimeconfig.cache
