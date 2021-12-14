@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "cEvjkjNmPVBJlGLaug7jcIJ9vv8cm/Y8YFHWxqUMi9aLOYi7NgwWEy6wNby6N1F5ykHyzgrxr7OZwSJ33yz+jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_CShap_Value\\Unity_CShap_Value.csproj",
+=======
   "dgSpecHash": "SfeyydGq2wvAmEPwJpzlTxKDPV/icshJgeU5exxFxRLKyBzTQWYBvsiEQepKGFUGCyIw6n+UsuTgHj09YIQOkA==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CShap_Value\\Unity_CShap_Value.csproj",
+>>>>>>> ed52ae42e5fe9d8e4cc25c5a2a27c44a5c737227
   "expectedPackageFiles": [],
   "logs": []
 }

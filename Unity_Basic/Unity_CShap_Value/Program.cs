@@ -6,6 +6,12 @@ namespace Unity_CShap_Value
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
+           
+        }
+    }
+
+=======
             
         }
     }
@@ -21,6 +27,7 @@ namespace Unity_CShap_Value
         char genderChar; // 문자형 -> 2byte
         string name; // 문자열 , 문자개수 * 2byte
      }
+>>>>>>> ed52ae42e5fe9d8e4cc25c5a2a27c44a5c737227
 
 
 }

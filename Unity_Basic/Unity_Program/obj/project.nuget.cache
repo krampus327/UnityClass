@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "aE2sXrtgdgOSIUKydRWh8CI8kx2MruMyplvRT238auHIqfkzjCis3upwdsDcANBIX7KifLfC7uVDLLpjoEKknA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_Program\\Unity_Program.csproj",
+=======
   "dgSpecHash": "a1VEI3c7SdfPR48KPUzeQaWFMIWUNd2n2ILX5jciStU72tmiVHyAfEDDqQ1PYI2WDqM0tajIOEgUNPZRZGOH7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_Program\\Unity_Program.csproj",
+>>>>>>> ed52ae42e5fe9d8e4cc25c5a2a27c44a5c737227
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "PdhbWsES9Se6z8Y2LjtrBCCzOE+Pl1peARk1y5kCyu2dV6VEGdeCgod2Sr6QcKYEvtK9Itt7n7E4J+2aMf1Beg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_CSharp_IF\\Unity_CSharp_IF.csproj",
+=======
   "dgSpecHash": "w0hPSw1u+sSFykHPTQN9u8a2qyQAn7aoIfMzKQ6gf4AfGfL4t2U3atbMunzUyWc+FtLJ7F0IqrGhSbmTmj98qg==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_IF\\Unity_CSharp_IF.csproj",
+>>>>>>> ed52ae42e5fe9d8e4cc25c5a2a27c44a5c737227
   "expectedPackageFiles": [],
   "logs": []
 }
