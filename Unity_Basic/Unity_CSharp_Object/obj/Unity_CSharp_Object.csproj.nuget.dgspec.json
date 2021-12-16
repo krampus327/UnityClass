@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_CSharp_Object\\Unity_CSharp_Object.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_Object\\Unity_CSharp_Object.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_CSharp_Object\\Unity_CSharp_Object.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_Object\\Unity_CSharp_Object.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_CSharp_Object\\Unity_CSharp_Object.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_Object\\Unity_CSharp_Object.csproj",
         "projectName": "Unity_CSharp_Object",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_CSharp_Object\\Unity_CSharp_Object.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_Object\\Unity_CSharp_Object.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_CSharp_Object\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_Object\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

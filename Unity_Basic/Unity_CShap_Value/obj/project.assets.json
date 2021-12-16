@@ -8,34 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\Admin\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
->>>>>>> ed52ae42e5fe9d8e4cc25c5a2a27c44a5c737227
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_CShap_Value\\Unity_CShap_Value.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CShap_Value\\Unity_CShap_Value.csproj",
       "projectName": "Unity_CShap_Value",
-      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_CShap_Value\\Unity_CShap_Value.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CShap_Value\\Unity_CShap_Value.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_CShap_Value\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CShap_Value\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CShap_Value\\Unity_CShap_Value.csproj",
-      "projectName": "Unity_CShap_Value",
-      "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CShap_Value\\Unity_CShap_Value.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CShap_Value\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> ed52ae42e5fe9d8e4cc25c5a2a27c44a5c737227
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -75,12 +60,16 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
->>>>>>> ed52ae42e5fe9d8e4cc25c5a2a27c44a5c737227
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "캐시 파일 C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CShap_Value\\obj\\project.nuget.cache을(를) 읽는 동안 문제가 발생했습니다. Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_Instantiation_Of_Class\\Unity_Instantiation_Of_Class.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_Instantiation_Of_Class\\Unity_Instantiation_Of_Class.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_Instantiation_Of_Class\\Unity_Instantiation_Of_Class.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_Instantiation_Of_Class\\Unity_Instantiation_Of_Class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_Instantiation_Of_Class\\Unity_Instantiation_Of_Class.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_Instantiation_Of_Class\\Unity_Instantiation_Of_Class.csproj",
         "projectName": "Unity_Instantiation_Of_Class",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_Instantiation_Of_Class\\Unity_Instantiation_Of_Class.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_Instantiation_Of_Class\\Unity_Instantiation_Of_Class.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_Instantiation_Of_Class\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_Instantiation_Of_Class\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

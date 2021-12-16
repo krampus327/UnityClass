@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "PdhbWsES9Se6z8Y2LjtrBCCzOE+Pl1peARk1y5kCyu2dV6VEGdeCgod2Sr6QcKYEvtK9Itt7n7E4J+2aMf1Beg==",
+  "dgSpecHash": "Y42SvG1FtPpoXhEChQ2FhPeKPLEoXG0T79K2guQqluHRAKv1Jrpv9HDxbUyhqZCJDdx7OcsuGv0Fj0WEYM3RXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_CSharp_IF\\Unity_CSharp_IF.csproj",
-=======
-  "dgSpecHash": "w0hPSw1u+sSFykHPTQN9u8a2qyQAn7aoIfMzKQ6gf4AfGfL4t2U3atbMunzUyWc+FtLJ7F0IqrGhSbmTmj98qg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_IF\\Unity_CSharp_IF.csproj",
->>>>>>> ed52ae42e5fe9d8e4cc25c5a2a27c44a5c737227
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_IF\\Unity_CSharp_IF.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "캐시 파일 C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_IF\\obj\\project.nuget.cache을(를) 읽는 동안 문제가 발생했습니다. Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

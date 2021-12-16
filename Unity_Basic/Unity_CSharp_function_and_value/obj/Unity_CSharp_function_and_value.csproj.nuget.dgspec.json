@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_CSharp_function_and_value\\Unity_CSharp_function_and_value.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_function_and_value\\Unity_CSharp_function_and_value.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_CSharp_function_and_value\\Unity_CSharp_function_and_value.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_function_and_value\\Unity_CSharp_function_and_value.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_CSharp_function_and_value\\Unity_CSharp_function_and_value.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_function_and_value\\Unity_CSharp_function_and_value.csproj",
         "projectName": "Unity_CSharp_function_and_value",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_CSharp_function_and_value\\Unity_CSharp_function_and_value.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_function_and_value\\Unity_CSharp_function_and_value.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Unity\\Unity_Basic\\Unity_CSharp_function_and_value\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_function_and_value\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
