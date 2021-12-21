@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_Function\\Unity_CSharp_Function.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_Function\\Unity_CSharp_Function.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_Function\\Unity_CSharp_Function.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_Function\\Unity_CSharp_Function.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_Function\\Unity_CSharp_Function.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_Function\\Unity_CSharp_Function.csproj",
         "projectName": "Unity_CSharp_Function",
-        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_Function\\Unity_CSharp_Function.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_Function\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_Function\\Unity_CSharp_Function.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CSharp_Function\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

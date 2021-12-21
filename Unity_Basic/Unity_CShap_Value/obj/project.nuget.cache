@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "SfeyydGq2wvAmEPwJpzlTxKDPV/icshJgeU5exxFxRLKyBzTQWYBvsiEQepKGFUGCyIw6n+UsuTgHj09YIQOkA==",
+  "dgSpecHash": "cGdfD2C75pt8FOmmXqAu4jscfEpcY226s09adekB6QJtCL16FadAcrvfzdVzQdBU5xGcr4DflUSSYBlCOrZKaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CShap_Value\\Unity_CShap_Value.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CShap_Value\\Unity_CShap_Value.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "캐시 파일 C:\\Users\\Admin\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_CShap_Value\\obj\\project.nuget.cache을(를) 읽는 동안 문제가 발생했습니다. Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

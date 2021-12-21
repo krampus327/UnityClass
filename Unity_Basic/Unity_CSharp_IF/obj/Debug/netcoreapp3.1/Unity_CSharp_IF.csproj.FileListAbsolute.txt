@@ -11,3 +11,20 @@ C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_IF\obj\Debug
 C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_IF\obj\Debug\netcoreapp3.1\Unity_CSharp_IF.dll
 C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_IF\obj\Debug\netcoreapp3.1\Unity_CSharp_IF.pdb
 C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_IF\obj\Debug\netcoreapp3.1\Unity_CSharp_IF.genruntimeconfig.cache
+<<<<<<< HEAD
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_IF\bin\Debug\netcoreapp3.1\Unity_CSharp_IF.exe
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_IF\bin\Debug\netcoreapp3.1\Unity_CSharp_IF.deps.json
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_IF\bin\Debug\netcoreapp3.1\Unity_CSharp_IF.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_IF\bin\Debug\netcoreapp3.1\Unity_CSharp_IF.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_IF\bin\Debug\netcoreapp3.1\Unity_CSharp_IF.dll
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_IF\bin\Debug\netcoreapp3.1\Unity_CSharp_IF.pdb
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_IF\obj\Debug\netcoreapp3.1\Unity_CSharp_IF.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_IF\obj\Debug\netcoreapp3.1\Unity_CSharp_IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_IF\obj\Debug\netcoreapp3.1\Unity_CSharp_IF.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_IF\obj\Debug\netcoreapp3.1\Unity_CSharp_IF.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_IF\obj\Debug\netcoreapp3.1\Unity_CSharp_IF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_IF\obj\Debug\netcoreapp3.1\Unity_CSharp_IF.dll
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_IF\obj\Debug\netcoreapp3.1\Unity_CSharp_IF.pdb
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_IF\obj\Debug\netcoreapp3.1\Unity_CSharp_IF.genruntimeconfig.cache
+=======
+>>>>>>> ed52ae42e5fe9d8e4cc25c5a2a27c44a5c737227
