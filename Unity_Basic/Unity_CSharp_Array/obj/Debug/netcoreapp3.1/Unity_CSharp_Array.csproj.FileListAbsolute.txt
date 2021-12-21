@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_Array\bin\Debug\netcoreapp3.1\Unity_CSharp_Array.exe
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_Array\bin\Debug\netcoreapp3.1\Unity_CSharp_Array.deps.json
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_Array\bin\Debug\netcoreapp3.1\Unity_CSharp_Array.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_Array\bin\Debug\netcoreapp3.1\Unity_CSharp_Array.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_Array\bin\Debug\netcoreapp3.1\Unity_CSharp_Array.dll
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_Array\bin\Debug\netcoreapp3.1\Unity_CSharp_Array.pdb
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_Array\obj\Debug\netcoreapp3.1\Unity_CSharp_Array.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_Array\obj\Debug\netcoreapp3.1\Unity_CSharp_Array.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_Array\obj\Debug\netcoreapp3.1\Unity_CSharp_Array.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_Array\obj\Debug\netcoreapp3.1\Unity_CSharp_Array.dll
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_Array\obj\Debug\netcoreapp3.1\Unity_CSharp_Array.pdb
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_Array\obj\Debug\netcoreapp3.1\Unity_CSharp_Array.genruntimeconfig.cache
