@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Unuty_CSharp_While/1.0.0": {
+        "runtime": {
+          "Unuty_CSharp_While.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unuty_CSharp_While/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

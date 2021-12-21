@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_function_and_value\bin\Debug\netcoreapp3.1\Unity_CSharp_function_and_value.exe
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_function_and_value\bin\Debug\netcoreapp3.1\Unity_CSharp_function_and_value.deps.json
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_function_and_value\bin\Debug\netcoreapp3.1\Unity_CSharp_function_and_value.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_function_and_value\bin\Debug\netcoreapp3.1\Unity_CSharp_function_and_value.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_function_and_value\bin\Debug\netcoreapp3.1\Unity_CSharp_function_and_value.dll
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_function_and_value\bin\Debug\netcoreapp3.1\Unity_CSharp_function_and_value.pdb
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_function_and_value\obj\Debug\netcoreapp3.1\Unity_CSharp_function_and_value.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_function_and_value\obj\Debug\netcoreapp3.1\Unity_CSharp_function_and_value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_function_and_value\obj\Debug\netcoreapp3.1\Unity_CSharp_function_and_value.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_function_and_value\obj\Debug\netcoreapp3.1\Unity_CSharp_function_and_value.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_function_and_value\obj\Debug\netcoreapp3.1\Unity_CSharp_function_and_value.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_function_and_value\obj\Debug\netcoreapp3.1\Unity_CSharp_function_and_value.dll
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_function_and_value\obj\Debug\netcoreapp3.1\Unity_CSharp_function_and_value.pdb
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_CSharp_function_and_value\obj\Debug\netcoreapp3.1\Unity_CSharp_function_and_value.genruntimeconfig.cache

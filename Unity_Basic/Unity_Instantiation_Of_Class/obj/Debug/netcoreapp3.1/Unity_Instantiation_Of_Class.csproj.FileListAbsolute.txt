@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_Instantiation_Of_Class\bin\Debug\netcoreapp3.1\Unity_Instantiation_Of_Class.exe
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_Instantiation_Of_Class\bin\Debug\netcoreapp3.1\Unity_Instantiation_Of_Class.deps.json
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_Instantiation_Of_Class\bin\Debug\netcoreapp3.1\Unity_Instantiation_Of_Class.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_Instantiation_Of_Class\bin\Debug\netcoreapp3.1\Unity_Instantiation_Of_Class.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_Instantiation_Of_Class\bin\Debug\netcoreapp3.1\Unity_Instantiation_Of_Class.dll
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_Instantiation_Of_Class\bin\Debug\netcoreapp3.1\Unity_Instantiation_Of_Class.pdb
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_Instantiation_Of_Class\obj\Debug\netcoreapp3.1\Unity_Instantiation_Of_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_Instantiation_Of_Class\obj\Debug\netcoreapp3.1\Unity_Instantiation_Of_Class.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_Instantiation_Of_Class\obj\Debug\netcoreapp3.1\Unity_Instantiation_Of_Class.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_Instantiation_Of_Class\obj\Debug\netcoreapp3.1\Unity_Instantiation_Of_Class.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_Instantiation_Of_Class\obj\Debug\netcoreapp3.1\Unity_Instantiation_Of_Class.dll
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_Instantiation_Of_Class\obj\Debug\netcoreapp3.1\Unity_Instantiation_Of_Class.pdb
+C:\Users\Admin\Documents\GitHub\Unity\Unity_Basic\Unity_Instantiation_Of_Class\obj\Debug\netcoreapp3.1\Unity_Instantiation_Of_Class.genruntimeconfig.cache

@@ -22,15 +22,25 @@ namespace Unity_CSharp_Function
                 Console.WriteLine("false");
         }
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> ed52ae42e5fe9d8e4cc25c5a2a27c44a5c737227
         static void PrintHelloWorld()
         {
             Console.WriteLine("Hello world!");
         }
+<<<<<<< HEAD
+
+=======
+>>>>>>> ed52ae42e5fe9d8e4cc25c5a2a27c44a5c737227
         static void PrintSomething(string something)
         {
             Console.WriteLine(something);
         }
     }
+<<<<<<< HEAD
+=======
 
+>>>>>>> ed52ae42e5fe9d8e4cc25c5a2a27c44a5c737227
 }

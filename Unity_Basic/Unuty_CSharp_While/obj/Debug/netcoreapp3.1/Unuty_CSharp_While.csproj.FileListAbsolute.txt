@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unuty_CSharp_While\bin\Debug\netcoreapp3.1\Unuty_CSharp_While.exe
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unuty_CSharp_While\bin\Debug\netcoreapp3.1\Unuty_CSharp_While.deps.json
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unuty_CSharp_While\bin\Debug\netcoreapp3.1\Unuty_CSharp_While.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unuty_CSharp_While\bin\Debug\netcoreapp3.1\Unuty_CSharp_While.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unuty_CSharp_While\bin\Debug\netcoreapp3.1\Unuty_CSharp_While.dll
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unuty_CSharp_While\bin\Debug\netcoreapp3.1\Unuty_CSharp_While.pdb
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unuty_CSharp_While\obj\Debug\netcoreapp3.1\Unuty_CSharp_While.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unuty_CSharp_While\obj\Debug\netcoreapp3.1\Unuty_CSharp_While.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unuty_CSharp_While\obj\Debug\netcoreapp3.1\Unuty_CSharp_While.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unuty_CSharp_While\obj\Debug\netcoreapp3.1\Unuty_CSharp_While.dll
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unuty_CSharp_While\obj\Debug\netcoreapp3.1\Unuty_CSharp_While.pdb
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unuty_CSharp_While\obj\Debug\netcoreapp3.1\Unuty_CSharp_While.genruntimeconfig.cache
