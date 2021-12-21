@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_ForLoopExample\bin\Debug\netcoreapp3.1\Unity_CSharp_ForLoopExample.exe
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_ForLoopExample\bin\Debug\netcoreapp3.1\Unity_CSharp_ForLoopExample.deps.json
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_ForLoopExample\bin\Debug\netcoreapp3.1\Unity_CSharp_ForLoopExample.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_ForLoopExample\bin\Debug\netcoreapp3.1\Unity_CSharp_ForLoopExample.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_ForLoopExample\bin\Debug\netcoreapp3.1\Unity_CSharp_ForLoopExample.dll
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_ForLoopExample\bin\Debug\netcoreapp3.1\Unity_CSharp_ForLoopExample.pdb
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_ForLoopExample\obj\Debug\netcoreapp3.1\Unity_CSharp_ForLoopExample.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_ForLoopExample\obj\Debug\netcoreapp3.1\Unity_CSharp_ForLoopExample.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_ForLoopExample\obj\Debug\netcoreapp3.1\Unity_CSharp_ForLoopExample.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_ForLoopExample\obj\Debug\netcoreapp3.1\Unity_CSharp_ForLoopExample.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_ForLoopExample\obj\Debug\netcoreapp3.1\Unity_CSharp_ForLoopExample.dll
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_ForLoopExample\obj\Debug\netcoreapp3.1\Unity_CSharp_ForLoopExample.pdb
+C:\Users\admin\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_ForLoopExample\obj\Debug\netcoreapp3.1\Unity_CSharp_ForLoopExample.genruntimeconfig.cache
