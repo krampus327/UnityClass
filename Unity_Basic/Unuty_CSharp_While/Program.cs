@@ -23,10 +23,16 @@ namespace Unuty_CSharp_While
             arr_PersonName[2] = "감아무개";
             int length = arr_PersonName.Length;
             int cnt = 0;
-            while(cnt<length) 
-                Console.WriteLine(arr_PersonName[cnt++]);
+            //while(cnt<length) 
+             //   Console.WriteLine(arr_PersonName[cnt++]);
 
-
+            while (true)
+            {
+                if (cnt < length)
+                    Console.WriteLine(arr_PersonName[cnt++]);
+                else
+                    break;
+            }
         }
     }
 }

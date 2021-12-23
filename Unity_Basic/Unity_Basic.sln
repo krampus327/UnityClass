@@ -11,15 +11,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unity_CSharp_IF", "Unity_CS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unity_CSharp_Function", "Unity_CSharp_Function\Unity_CSharp_Function.csproj", "{361954FA-AB77-4374-9877-55A027957A61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity_Function_overload", "Unity_Function_overload\Unity_Function_overload.csproj", "{DCA56502-A41A-4B75-B962-A45BFBEF2265}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unity_Function_overload", "Unity_Function_overload\Unity_Function_overload.csproj", "{DCA56502-A41A-4B75-B962-A45BFBEF2265}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity_CSharp_Array", "Unity_CSharp_Array\Unity_CSharp_Array.csproj", "{B03550DE-2416-482C-B191-FFC0776B11AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unity_CSharp_Array", "Unity_CSharp_Array\Unity_CSharp_Array.csproj", "{B03550DE-2416-482C-B191-FFC0776B11AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unuty_CSharp_While", "Unuty_CSharp_While\Unuty_CSharp_While.csproj", "{D472430D-9FCC-4B31-AF12-C6BD825ED5EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unuty_CSharp_While", "Unuty_CSharp_While\Unuty_CSharp_While.csproj", "{D472430D-9FCC-4B31-AF12-C6BD825ED5EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity_CSharp_For", "Unity_CSharp_For\Unity_CSharp_For.csproj", "{6F0256DB-C04F-4616-93FC-5A6C8BD3C03D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unity_CSharp_For", "Unity_CSharp_For\Unity_CSharp_For.csproj", "{6F0256DB-C04F-4616-93FC-5A6C8BD3C03D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity_CSharp_ForLoopExample", "Unity_CSharp_ForLoopExample\Unity_CSharp_ForLoopExample.csproj", "{9305023B-F0FC-44C8-8F9B-CEBB313A3373}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unity_CSharp_ForLoopExample", "Unity_CSharp_ForLoopExample\Unity_CSharp_ForLoopExample.csproj", "{9305023B-F0FC-44C8-8F9B-CEBB313A3373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity_CSharp_Collection", "Unity_CSharp_Collection\Unity_CSharp_Collection.csproj", "{1713AC48-DC27-44A2-8C47-2BBAC60E8E0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{9305023B-F0FC-44C8-8F9B-CEBB313A3373}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9305023B-F0FC-44C8-8F9B-CEBB313A3373}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9305023B-F0FC-44C8-8F9B-CEBB313A3373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1713AC48-DC27-44A2-8C47-2BBAC60E8E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1713AC48-DC27-44A2-8C47-2BBAC60E8E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1713AC48-DC27-44A2-8C47-2BBAC60E8E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1713AC48-DC27-44A2-8C47-2BBAC60E8E0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

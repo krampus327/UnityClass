@@ -6,6 +6,10 @@ namespace Unity_CSharp_For
     {
         static void Main(string[] args)
         {
+            // collection - 동적 데이터 타입
+            // List, Dictionary, Stack, Queue
+
+
 
             string[] arr_PersonName = new string[6];
 
