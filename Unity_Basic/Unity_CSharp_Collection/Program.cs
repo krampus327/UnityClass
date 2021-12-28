@@ -51,7 +51,7 @@ namespace Unity_CSharp_Collection
             Dictionary<string, string> _dic = new Dictionary<string, string>();
             _dic.Add("검사", "물딜러");
             _dic.Add("마법사", "마딜러");
-            _dic.Add("수호자", "와로두");
+            _dic.Add("수호자", "워로드");
 
             _dic.ContainsKey("검사");  // 검사를 찾는다.
 
@@ -86,15 +86,45 @@ namespace Unity_CSharp_Collection
                 string tmpValue = sub.Value;
                 Console.WriteLine($"{tmpKey} : {tmpValue}");
             }
-           
+
+            Console.WriteLine();
+
 
             //-------------------------------
-            //Stack
+            //Stack : 가장 늦게 추가된 아이템을 먼저 뺀다 (List와 비슷하나 LIFO 체계이다)
             //-------------------------------
 
+            Stack<int> _stack = new Stack<int>();
+
+            _stack.Push(10);
+            _stack.Push(20);
+            _stack.Push(20);
+
+            Console.WriteLine(_stack.Peek()); // 가장 마지막에 있는 값을 반환
+
+            Console.WriteLine(_stack.Pop());
+            Console.WriteLine(_stack.Pop());
+            Console.WriteLine(_stack.Pop());
+
+            Console.WriteLine();
             //-------------------------------
-            //Queue
+            //Queue : 가장먼저 추가된 아이템을 먼저 뺀다 (List와 비슷하나 FIFO 체계이다.)
             //-------------------------------
+
+            Queue<int> _queue = new Queue<int>();
+
+            _queue.Enqueue(10); // 10
+            _queue.Enqueue(20); // 10 20 
+            _queue.Enqueue(30); // 10 20 30
+
+
+            Console.WriteLine(_queue.Peek()); // 가장 첫번째에 있는 값을 반환
+            Console.WriteLine(_queue.Dequeue()); // 가장 첫번째에 있는 값을 제거하고 반환
+            Console.WriteLine(_queue.Dequeue());
+            Console.WriteLine(_queue.Dequeue());
+
+
+
 
 
         }

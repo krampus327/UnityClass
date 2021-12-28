@@ -15,7 +15,6 @@ namespace Unity_CSharp_ForLoopExample
                 orc_arr[i] = new Orc(); // 길이가 10인 Orc타입의 배열의 i번째 공간에 Orc타입 객체를 생성해서 넣어준다.
                 orc_arr[i].name = $"오크{i}";
                 orc_arr[i].isResting = GetRandomBool();
-
             }
 
             for(int i = 0;i<len;i++)

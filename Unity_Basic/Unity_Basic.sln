@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unity_CSharp_For", "Unity_C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unity_CSharp_ForLoopExample", "Unity_CSharp_ForLoopExample\Unity_CSharp_ForLoopExample.csproj", "{9305023B-F0FC-44C8-8F9B-CEBB313A3373}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity_CSharp_Collection", "Unity_CSharp_Collection\Unity_CSharp_Collection.csproj", "{1713AC48-DC27-44A2-8C47-2BBAC60E8E0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unity_CSharp_Collection", "Unity_CSharp_Collection\Unity_CSharp_Collection.csproj", "{1713AC48-DC27-44A2-8C47-2BBAC60E8E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity_CSharp_Enum", "Unity_CSharp_Enum\Unity_CSharp_Enum.csproj", "{8B45E5CA-41EC-4311-B273-2902A2A56331}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{1713AC48-DC27-44A2-8C47-2BBAC60E8E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1713AC48-DC27-44A2-8C47-2BBAC60E8E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1713AC48-DC27-44A2-8C47-2BBAC60E8E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B45E5CA-41EC-4311-B273-2902A2A56331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B45E5CA-41EC-4311-B273-2902A2A56331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B45E5CA-41EC-4311-B273-2902A2A56331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B45E5CA-41EC-4311-B273-2902A2A56331}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
