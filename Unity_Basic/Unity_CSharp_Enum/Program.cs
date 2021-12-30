@@ -116,11 +116,11 @@ namespace Unity_CSharp_Enum
                     Console.WriteLine($"{name} 은(는) 챔피언 입니다");
                     break;
                 default:
-                    Console.WriteLine($"{name} 은(는) 플에이어 입니다.");
+                    Console.WriteLine($"{name} 은(는) 플레이어 입니다.");
                     break;
             }
 
-            Console.WriteLine("캐릭터 이름 입력: ");
+            Console.WriteLine("전사 이름 입력: ");
             Warrior warrior1 = new Warrior();
             warrior1.name = Console.ReadLine();
 
@@ -152,43 +152,85 @@ namespace Unity_CSharp_Enum
             }
             // 동작 명령
 
-            Console.WriteLine("전사에게 명령을 내려주세요 : ");
-            string motionInput = Console.ReadLine();
-            e_PlayerState motion =  (e_PlayerState)Enum.Parse(typeof(e_PlayerState), motionInput);
+            //Console.WriteLine("전사에게 명령을 내려주세요 : ");
+            //string motionInput = Console.ReadLine();
+            //e_PlayerState motion =  (e_PlayerState)Enum.Parse(typeof(e_PlayerState), motionInput);
 
-            object motionObject;
-           // bool isParsed = Enum.TryParse(typeof(e_PlayerState), motionInput, out motionObject);
-            //motion = (e_PlayerState)motionObject;
-
-
-            switch (motion)
+            Console.WriteLine("전사에게 명령을 내려주세요");
+            string motionInput2 = Console.ReadLine();
+            e_PlayerState motion2;
+            bool isParsed;
+            isParsed = Enum.TryParse(motionInput2, out motion2);
+            if (isParsed)
             {
-                case e_PlayerState.IDLE:
-                    break;
-                case e_PlayerState.ATTACK:
-                    warrior1.Attack();
-                    break;
-                case e_PlayerState.JUMP:
-                    warrior1.Jump();
-                    break;
-                case e_PlayerState.WALK:
-                    warrior1.Walk();
-                    break;
-                case e_PlayerState.RUN:
-                    warrior1.Run();
-                    break;
-                case e_PlayerState.DASH:
-                    warrior1.Dash();
-                    break;
-                case e_PlayerState.HOME:
-                    warrior1.Home();
-                    break;
-                default:
-                    Console.WriteLine("전사는 그런거 할줄 몰라요");
-                    break;
+                switch (motion2)
+                {
+                    case e_PlayerState.IDLE:
+                        // do nothing 
+                        break;
+                    case e_PlayerState.ATTACK:
+                        warrior1.Attack();
+                        break;
+                    case e_PlayerState.JUMP:
+                        warrior1.Jump();
+                        break;
+                    case e_PlayerState.WALK:
+                        warrior1.Walk();
+                        break;
+                    case e_PlayerState.RUN:
+                        warrior1.Run();
+                        break;
+                    case e_PlayerState.DASH:
+                        warrior1.Dash();
+                        break;
+                    case e_PlayerState.HOME:
+                        warrior1.Home();
+                        break;
+                    default:
+                        Console.WriteLine("전사는 그런거 할줄 몰라요");
+                        break;
+                }
             }
-            
+            else
+            {
+                Console.WriteLine("전사는 그런거 할줄 몰라요");
+            }
         }
+        //object motionObject;
+        // bool isParsed = Enum.TryParse(typeof(e_PlayerState), motionInput, out motionObject);
+        //motion = (e_PlayerState)motionObject;
+
+
+
+        /*switch (motion)
+        {
+            case e_PlayerState.IDLE:
+                break;
+            case e_PlayerState.ATTACK:
+                warrior1.Attack();
+                break;
+            case e_PlayerState.JUMP:
+                warrior1.Jump();
+                break;
+            case e_PlayerState.WALK:
+                warrior1.Walk();
+                break;
+            case e_PlayerState.RUN:
+                warrior1.Run();
+                break;
+            case e_PlayerState.DASH:
+                warrior1.Dash();
+                break;
+            case e_PlayerState.HOME:
+                warrior1.Home();
+                break;
+            default:
+                Console.WriteLine("전사는 그런거 할줄 몰라요");
+                break;
+        }*/
+
+
+    }
     }
 
     class Warrior
@@ -221,5 +263,5 @@ namespace Unity_CSharp_Enum
         }
 
     }
-}
+
 
