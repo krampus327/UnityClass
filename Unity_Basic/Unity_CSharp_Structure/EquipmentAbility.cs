@@ -12,5 +12,7 @@ namespace Unity_CSharp_Structure
         public int _MP;
         public int _Durablibity;
 
+
     }
 }
+ 
