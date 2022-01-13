@@ -24,10 +24,10 @@ namespace Unirt_CSharp_delegate
             CalDelegate CD_Sum = Sum;
             CalDelegate CD_Sub = Sub;
             // 람다식 : 함수를 정의하지않고 연산에 필요한 내용만 표현하는 방법 객체지향이아닌 함수지향
-            CalDelegate CD_Div = delegate(int a, int b)
+            CalDelegate CD_Div = delegate (int a, int b)
             {
                 return a / b;
-            }
+            };
 
             
 

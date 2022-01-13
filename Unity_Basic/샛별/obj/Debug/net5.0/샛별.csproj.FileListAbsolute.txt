@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\샛별\bin\Debug\net5.0\샛별.exe
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\샛별\bin\Debug\net5.0\샛별.deps.json
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\샛별\bin\Debug\net5.0\샛별.runtimeconfig.json
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\샛별\bin\Debug\net5.0\샛별.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\샛별\bin\Debug\net5.0\샛별.dll
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\샛별\bin\Debug\net5.0\ref\샛별.dll
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\샛별\bin\Debug\net5.0\샛별.pdb
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\샛별\obj\Debug\net5.0\샛별.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\샛별\obj\Debug\net5.0\샛별.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\샛별\obj\Debug\net5.0\샛별.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\샛별\obj\Debug\net5.0\샛별.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\샛별\obj\Debug\net5.0\샛별.dll
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\샛별\obj\Debug\net5.0\ref\샛별.dll
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\샛별\obj\Debug\net5.0\샛별.pdb
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\샛별\obj\Debug\net5.0\샛별.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\샛별\obj\Debug\net5.0\샛별.csproj.AssemblyReference.cache

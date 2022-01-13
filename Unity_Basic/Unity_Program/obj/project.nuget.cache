@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HhnB4lNscnnHVe6sZntNoPfKwsBZpXGRNuSmxfCDZ0kaa4dOwx4Ott6/CNOTrVexBvqNOkOvCe4E4ao+TnaEAg==",
+  "dgSpecHash": "eHZnVm8Q0c4tCgyXAIVmj+kpRvtf5DIClwrF+jsM9w99ucFCKjqn9JNtBY3BHfBZO4crIKRgCWUz+9YW+xrbEw==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\UnityClass\\Unity_Basic\\Unity_Program\\Unity_Program.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

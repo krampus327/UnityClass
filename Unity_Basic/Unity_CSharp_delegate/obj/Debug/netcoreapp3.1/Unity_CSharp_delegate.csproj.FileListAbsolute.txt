@@ -11,3 +11,4 @@ C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_delegate\obj\
 C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_delegate\obj\Debug\netcoreapp3.1\Unity_CSharp_delegate.dll
 C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_delegate\obj\Debug\netcoreapp3.1\Unity_CSharp_delegate.pdb
 C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_delegate\obj\Debug\netcoreapp3.1\Unity_CSharp_delegate.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\UnityClass\Unity_Basic\Unity_CSharp_delegate\obj\Debug\netcoreapp3.1\Unity_CSharp_delegate.csproj.AssemblyReference.cache

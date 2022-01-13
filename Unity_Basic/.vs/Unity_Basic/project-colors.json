@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0f421a8-843c-4277-803b-639600cda962": {
+      "ProjectGuid": "c0f421a8-843c-4277-803b-639600cda962",
+      "DisplayName": "Unity_CSharp_Structure",
+      "ColorIndex": 0
+    },
+    "c00c5a72-47b4-418a-8f88-e9704ea735bc": {
+      "ProjectGuid": "c00c5a72-47b4-418a-8f88-e9704ea735bc",
+      "DisplayName": "Unity_CSharp_Solid",
+      "ColorIndex": 1
+    },
+    "d8cc9683-730e-42fd-9107-8258b3b4135c": {
+      "ProjectGuid": "d8cc9683-730e-42fd-9107-8258b3b4135c",
+      "DisplayName": "Unity_CSharp_Inheritence",
+      "ColorIndex": 2
+    },
+    "203502b7-b031-4945-a09e-8d2ea7a50299": {
+      "ProjectGuid": "203502b7-b031-4945-a09e-8d2ea7a50299",
+      "DisplayName": "Unity_CShap_Value",
+      "ColorIndex": 3
+    },
+    "1713ac48-dc27-44a2-8c47-2bbac60e8e0d": {
+      "ProjectGuid": "1713ac48-dc27-44a2-8c47-2bbac60e8e0d",
+      "DisplayName": "Unity_CSharp_Collection",
+      "ColorIndex": 4
+    },
+    "58a8b838-3e78-4089-ab4c-c1f55dab9185": {
+      "ProjectGuid": "58a8b838-3e78-4089-ab4c-c1f55dab9185",
+      "DisplayName": "Unity_CSharp_delegate",
+      "ColorIndex": 5
+    },
+    "8c5bc186-0d2f-4220-b340-553557ed4a8a": {
+      "ProjectGuid": "8c5bc186-0d2f-4220-b340-553557ed4a8a",
+      "DisplayName": "샛별문제",
+      "ColorIndex": 6
+    },
+    "9305023b-f0fc-44c8-8f9b-cebb313a3373": {
+      "ProjectGuid": "9305023b-f0fc-44c8-8f9b-cebb313a3373",
+      "DisplayName": "Unity_CSharp_ForLoopExample",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
